@@ -1,12 +1,12 @@
 # Responsive-Web-Designing-Project
 Project i build when i am learning something new or just for fun (using html, css)🤩
 
-Tribut Page https://codepen.io/manee808/full/NWbLNEK
+PORTFOLIO   :   https://codepen.io/manee808/full/YzpdrgV
 
-Survey paage https://codepen.io/manee808/full/VwmGBmq
+TRIBUTE PAGE:   https://codepen.io/manee808/full/NWbLNEK
 
-Product landing page https://codepen.io/manee808/pen/MWbPoNO
+PRODUCT LANDING PAGE:   https://codepen.io/manee808/full/MWbPoNO
 
-Technical Documentaion https://codepen.io/manee808/full/XWNyVwO
+TECHNICAL DOCUMENTTAION PAGE: https://codepen.io/manee808/full/XWNyVwO
 
-Portfolio https://codepen.io/manee808/pen/YzpdrgV
+SURVEY PAGE   :    https://codepen.io/manee808/pen/VwmGBmq
